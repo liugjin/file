@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="14px" viewBox="0 0 24 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.887905882 0.470776471 19.7114353 0.470776471 19.7114353 2.58814118 0.887905882 2.58814118"></polygon>
+        <polygon id="path-3" points="1.17647059 0.164611765 3.29411765 0.164611765 3.29411765 4.87049412 1.17647059 4.87049412"></polygon>
+        <polygon id="path-5" points="0.979011765 0.164611765 3.09637647 0.164611765 3.09637647 4.87049412 0.979011765 4.87049412"></polygon>
+        <polygon id="path-7" points="0.887905882 0.560094118 19.7114353 0.560094118 19.7114353 2.67745882 0.887905882 2.67745882"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设备详情" transform="translate(-43.000000, -728.000000)">
+            <g id="设备主要预测参数" transform="translate(20.000000, 493.000000)">
+                <g id="转子断条预测情况" transform="translate(22.000000, 232.000000)">
+                    <g id="标题">
+                        <g id="icon" transform="translate(0.000000, 2.000000)">
+                            <g id="Group-35" transform="translate(0.000000, 0.616471)">
+                                <g id="Group-3" transform="translate(2.823529, 11.294118)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Clip-2"></g>
+                                    <path d="M1.82908235,1.64715294 L18.4436706,1.64715294" id="Stroke-1" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                </g>
+                                <path d="M2.11764706,5.65825882 L4.65223529,5.65825882" id="Stroke-4" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <g id="Group-8" transform="translate(0.000000, 4.705882)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <g id="Clip-7"></g>
+                                    <path d="M2.11764706,0.952376471 L2.11764706,3.92931765" id="Stroke-6" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                                </g>
+                                <path d="M4.65261176,8.6352 L2.11802353,8.6352" id="Stroke-9" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M23.8024471,5.65825882 L21.2678588,5.65825882" id="Stroke-11" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <g id="Group-15" transform="translate(21.647059, 4.705882)">
+                                    <mask id="mask-6" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <g id="Clip-14"></g>
+                                    <path d="M2.15538824,0.952376471 L2.15538824,3.92931765" id="Stroke-13" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-6)"></path>
+                                </g>
+                                <path d="M21.2674824,8.6352 L23.8020706,8.6352" id="Stroke-16" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M4.65261176,12.7923765 L4.65261176,1.50108235" id="Stroke-18" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M21.2674824,12.9412706 L21.2674824,1.50127059" id="Stroke-20" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <g id="Group-24" transform="translate(2.823529, 0.000000)">
+                                    <mask id="mask-8" fill="white">
+                                        <use xlink:href="#path-7"></use>
+                                    </mask>
+                                    <g id="Clip-23"></g>
+                                    <path d="M1.82908235,1.50108235 L18.4436706,1.50108235" id="Stroke-22" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-8)"></path>
+                                </g>
+                                <path d="M6.93750588,1.50108235 L6.93750588,12.9410824" id="Stroke-25" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M18.9821176,1.50108235 L18.9821176,12.9410824" id="Stroke-27" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M6.93750588,4.49825882 L11.5219765,1.50061176" id="Stroke-29" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M6.93750588,7.13618824 L15.5793882,1.50136471" id="Stroke-31" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M6.93750588,9.51341176 L18.9817412,1.66494118" id="Stroke-33" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                            <path d="M6.93750588,12.6050824 L18.9817412,4.75755294" id="Stroke-36" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <g id="Group-43" transform="translate(8.470588, 6.263529)" stroke="#F4F7FF" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M0.612141176,7.29421176 L10.5114353,0.843388235" id="Stroke-37"></path>
+                                <path d="M4.95087059,7.29421176 L10.5113412,3.66785882" id="Stroke-39"></path>
+                                <path d="M8.64658824,7.29421176 L10.5110588,6.07444706" id="Stroke-41"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

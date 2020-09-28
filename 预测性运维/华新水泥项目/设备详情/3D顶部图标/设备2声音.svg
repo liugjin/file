@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="31px" viewBox="0 0 44 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设备详情" transform="translate(-836.000000, -162.000000)">
+            <g id="快速进入设备" transform="translate(592.000000, 149.000000)">
+                <g id="设备2声音" transform="translate(213.000000, 0.000000)">
+                    <g id="icon" transform="translate(32.000000, 9.000000)">
+                        <path d="M7.39483333,25.4895 L1.41316667,25.4895 C0.863166667,25.4895 0.4165,25.0428333 0.4165,24.4928333 L0.4165,14.9561667 C0.4165,14.4061667 0.863166667,13.9595 1.41316667,13.9595 L7.39483333,13.9595 L9.11983333,13.3995 L18.6915,5.65116667 C18.6915,5.65116667 19.5531667,5.29616667 19.8115,5.41616667 C20.0748333,5.5395 20.3631667,6.44116667 20.3631667,6.44116667 L20.3631667,32.9578333 C20.3631667,32.9578333 19.9848333,33.7878333 19.7231667,33.9028333 C19.4848333,34.0061667 18.6915,33.7495 18.6915,33.7495 L9.36816667,26.0361667 L7.39483333,25.4895 Z" id="Fill-1" fill-opacity="0.3" fill="#10AAFF"></path>
+                        <path d="M25.37,15.8085 C26.6733333,18.2301667 26.5866667,21.2035 25.1116667,23.5518333" id="Stroke-3" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M29.2958333,11.8826667 C32.6208333,16.571 32.4991667,22.956 28.9341667,27.521" id="Stroke-5" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.417333333,19.7 L0.417333333,14.8416667 C0.417333333,14.3283333 0.837333333,13.9083333 1.35066667,13.9083333 L7.149,13.9083333 C8.09066667,13.9083333 9.004,13.5816667 9.73233333,12.9866667 L18.6923333,5.65 C19.3606667,5.10333333 20.364,5.57833333 20.364,6.44166667 L20.364,19.7" id="Stroke-7" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.417333333,19.7 L0.417333333,24.5583333 C0.417333333,25.0716667 0.837333333,25.4916667 1.35066667,25.4916667 L7.149,25.4916667 C8.09066667,25.4916667 9.004,25.8166667 9.73233333,26.4133333 L18.6923333,33.75 C19.3606667,34.2966667 20.364,33.8216667 20.364,32.9583333 L20.364,19.7" id="Stroke-9" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <text id="2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#00A7FF">
+                            <tspan x="35" y="15">2</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

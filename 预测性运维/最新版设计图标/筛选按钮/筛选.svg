@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新增" transform="translate(27.455844, 27.455844) rotate(-315.000000) translate(-27.455844, -27.455844) translate(9.455844, 9.455844)" stroke="#10EBF4" stroke-width="2">
+            <circle id="bg" cx="18" cy="18" r="18"></circle>
+            <g id="icon" transform="translate(18.000000, 18.000000) rotate(-315.000000) translate(-18.000000, -18.000000) translate(9.000000, 9.000000)" stroke-linecap="round">
+                <path d="M0.142885714,8.96297143 L17.7828857,8.96297143" id="Stroke-1"></path>
+                <path d="M8.96291429,0.142942857 L8.96291429,17.7829429" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

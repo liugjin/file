@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="49px" viewBox="0 0 36 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="2.52631579 2.31183158 4.42105263 2.31183158 4.42105263 6.33877895 2.52631579 6.33877895"></polygon>
+        <polygon id="path-3" points="2.52631579 2.50307368 4.42105263 2.50307368 4.42105263 6.53002105 2.52631579 6.53002105"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="站点厂区" transform="translate(-1016.000000, -887.000000)">
+            <g id="设备快速跳转" transform="translate(640.000000, 839.000000)">
+                <g id="原料磨开关柜" transform="translate(330.000000, 29.000000)">
+                    <g transform="translate(11.000000, 20.000000)" id="icon">
+                        <g transform="translate(33.000000, 0.000000)">
+                            <path d="M10.7712,12.4817684 L10.7712,9.20513684 C10.7712,8.40934737 11.4179368,7.76261053 12.2112,7.76261053 L29.7261474,7.76261053 C30.5194105,7.76261053 31.1661474,8.40934737 31.1661474,9.20513684 L31.1661474,12.4817684" id="Stroke-1" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M31.1669053,12.4817684 C31.1669053,13.2775579 30.5201684,13.9217684 29.7269053,13.9217684 L12.2119579,13.9217684 C11.4186947,13.9217684 10.7719579,13.2775579 10.7719579,12.4817684" id="Stroke-3" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M5.15368421,14.6503579 C4.04968421,14.6503579 3.15789474,13.7560421 3.15789474,12.6545684" id="Stroke-5" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M5.15368421,6.63233684 C4.04968421,6.63233684 3.15789474,7.52665263 3.15789474,8.62812632" id="Stroke-7" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <g id="分组" transform="translate(0.000000, 6.315789)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-10"></g>
+                                <path d="M3.15789474,6.33877895 L3.15789474,2.31183158" id="Stroke-9" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                            </g>
+                            <path d="M5.15368421,40.1034947 C4.04968421,40.1034947 3.15789474,39.2117053 3.15789474,38.1077053" id="Stroke-11" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M5.15368421,32.0867368 C4.04968421,32.0867368 3.15789474,32.9810526 3.15789474,34.0825263" id="Stroke-13" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <g id="分组" transform="translate(0.000000, 31.578947)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Clip-16"></g>
+                                <path d="M3.15789474,6.53002105 L3.15789474,2.50307368" id="Stroke-15" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                            </g>
+                            <path d="M7.97861053,0.631073684 L33.9592421,0.631073684 C35.5179789,0.631073684 36.7836632,1.89675789 36.7836632,3.45802105 L36.7836632,43.2803368 C36.7836632,44.8416 35.5179789,46.1047579 33.9592421,46.1047579 L7.97861053,46.1047579 C6.41987368,46.1047579 5.15418947,44.8416 5.15418947,43.2803368 L5.15418947,3.45802105 C5.15418947,1.89675789 6.41987368,0.631073684 7.97861053,0.631073684 Z" id="Stroke-17" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#101010;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M1,7.4V5.3C1,5,1.2,4.9,1.4,4.9h17.2C18.8,4.9,19,5,19,5.3v2.1"/>
+	<path class="st0" d="M19,7.4c0,0.2-0.2,0.4-0.4,0.4H1.4C1.2,7.8,1,7.6,1,7.4"/>
+	<path class="st0" d="M18.2,16.6c0,0.2-0.2,0.4-0.4,0.4H2.2c-0.2,0-0.4-0.2-0.4-0.4"/>
+	<path class="st0" d="M3.3,4.9V3.4C3.3,3.2,3.5,3,3.7,3h3.1C7,3,7.2,3.2,7.2,3.4v1.5"/>
+	<path class="st0" d="M12.8,4.9V3.4C12.8,3.2,13,3,13.2,3h3.1c0.2,0,0.4,0.2,0.4,0.4v1.5"/>
+	<line class="st0" x1="18.2" y1="8" x2="18.2" y2="16.6"/>
+	<line class="st0" x1="1.8" y1="7.9" x2="1.8" y2="16.6"/>
+	<g>
+		<line class="st0" x1="4.6" y1="12.4" x2="7.8" y2="12.4"/>
+		<line class="st0" x1="12" y1="12.4" x2="15.2" y2="12.4"/>
+		<line class="st0" x1="6.2" y1="10.8" x2="6.2" y2="14"/>
+	</g>
+</g>
+</svg>

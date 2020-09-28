@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="13px" viewBox="0 0 24 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title> icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="站点厂区" transform="translate(-1038.000000, -168.000000)" stroke="#F3F6FE" stroke-width="3">
+            <g id="站点切换" transform="translate(790.000000, 125.000000)">
+                <g transform="translate(21.000000, 23.000000)" id="文案">
+                    <g>
+                        <g id="-icon" transform="translate(229.000000, 22.000000)">
+                            <path d="M0.357285732,0.356614286 L7.74585753,7.74518571" id="Stroke-1"></path>
+                            <path d="M19.869001,0.621757143 L12.7461435,7.74461429" id="Stroke-3"></path>
+                            <path d="M12.7457149,7.74504286 C11.3628577,9.1279 9.12714331,9.1279 7.74571467,7.74504286" id="Stroke-5"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

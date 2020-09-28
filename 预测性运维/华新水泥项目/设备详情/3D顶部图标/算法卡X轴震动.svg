@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设备详情" transform="translate(-944.000000, -161.000000)">
+            <g id="快速进入设备" transform="translate(592.000000, 149.000000)">
+                <g id="算法卡X轴振动" transform="translate(319.000000, 0.000000)">
+                    <g id="icon" transform="translate(34.000000, 13.000000)">
+                        <path d="M20.1138947,21.3036316 L8.88915789,21.3036316 C8.23073684,21.3036316 7.69705263,20.7699474 7.69705263,20.1131053 L7.69705263,8.88836842 C7.69705263,8.23152632 8.23073684,7.69784211 8.88915789,7.69784211 L20.1138947,7.69784211 C20.7707368,7.69784211 21.3044211,8.23152632 21.3044211,8.88836842 L21.3044211,20.1131053 C21.3044211,20.7699474 20.7707368,21.3036316 20.1138947,21.3036316" id="Fill-1" fill-opacity="0.3" fill="#10AAFF"></path>
+                        <path d="M25.8268421,28.6062632 L3.17368421,28.6062632 C1.63894737,28.6062632 0.394736842,27.3620526 0.394736842,25.8273158 L0.394736842,3.17415789 C0.394736842,1.63942105 1.63894737,0.395210526 3.17368421,0.395210526 L25.8268421,0.395210526 C27.3631579,0.395210526 28.6073684,1.63942105 28.6073684,3.17415789 L28.6073684,25.8273158 C28.6073684,27.3620526 27.3631579,28.6062632 25.8268421,28.6062632 Z" id="Stroke-3" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M20.1138947,21.3036316 L8.88915789,21.3036316 C8.23073684,21.3036316 7.69705263,20.7699474 7.69705263,20.1131053 L7.69705263,8.88836842 C7.69705263,8.23152632 8.23073684,7.69784211 8.88915789,7.69784211 L20.1138947,7.69784211 C20.7707368,7.69784211 21.3044211,8.23152632 21.3044211,8.88836842 L21.3044211,20.1131053 C21.3044211,20.7699474 20.7707368,21.3036316 20.1138947,21.3036316 Z" id="Stroke-5" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M14.5012105,28.6062632 L14.5012105,21.3036316" id="Stroke-7" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M11.0982632,28.6062632 L11.0982632,21.3036316" id="Stroke-9" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M17.9027368,28.6062632 L17.9027368,21.3036316" id="Stroke-11" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M14.5012105,7.69752632 L14.5012105,0.394894737" id="Stroke-13" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M11.0982632,7.69752632 L11.0982632,0.394894737" id="Stroke-15" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M17.9027368,7.69752632 L17.9027368,0.394894737" id="Stroke-17" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.394105263,14.5005789 L7.69673684,14.5005789" id="Stroke-19" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.394105263,11.0990526 L7.69673684,11.0990526" id="Stroke-21" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.394105263,17.9021053 L7.69673684,17.9021053" id="Stroke-23" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M21.3042632,14.5005789 L28.6068947,14.5005789" id="Stroke-25" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M21.3042632,11.0990526 L28.6068947,11.0990526" id="Stroke-27" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M21.3042632,17.9021053 L28.6068947,17.9021053" id="Stroke-29" stroke="#10AAFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

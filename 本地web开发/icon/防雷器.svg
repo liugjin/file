@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#101010;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="st0" x1="1" y1="6" x2="1" y2="13.7"/>
+	<line class="st0" x1="19" y1="6" x2="19" y2="13.7"/>
+	<line class="st0" x1="5.5" y1="1.8" x2="5.5" y2="17.8"/>
+	<line class="st0" x1="10" y1="1.8" x2="10" y2="17.8"/>
+	<line class="st0" x1="14.5" y1="1.8" x2="14.5" y2="17.8"/>
+	<g>
+		<path class="st0" d="M19,6.3H1V2.4c0-0.3,0.3-0.6,0.6-0.6h16.8c0.3,0,0.6,0.3,0.6,0.6V6.3z"/>
+		<circle class="st0" cx="3.2" cy="3.6" r="0.7"/>
+		<circle class="st0" cx="7.8" cy="3.6" r="0.7"/>
+		<circle class="st0" cx="12.2" cy="3.6" r="0.7"/>
+		<circle class="st0" cx="16.8" cy="3.6" r="0.7"/>
+		<line class="st0" x1="16.8" y1="6.3" x2="16.8" y2="5.4"/>
+		<line class="st0" x1="12.2" y1="6.3" x2="12.2" y2="5.4"/>
+		<line class="st0" x1="7.7" y1="6.3" x2="7.7" y2="5.4"/>
+		<line class="st0" x1="3.2" y1="6.3" x2="3.2" y2="5.4"/>
+	</g>
+	<g>
+		<path class="st0" d="M1,13.7h18v3.9c0,0.3-0.3,0.6-0.6,0.6H1.6c-0.3,0-0.6-0.3-0.6-0.6V13.7z"/>
+		<circle class="st0" cx="16.8" cy="16.4" r="0.7"/>
+		<circle class="st0" cx="12.2" cy="16.4" r="0.7"/>
+		<circle class="st0" cx="7.8" cy="16.4" r="0.7"/>
+		<circle class="st0" cx="3.2" cy="16.4" r="0.7"/>
+		<line class="st0" x1="3.2" y1="13.7" x2="3.2" y2="14.6"/>
+		<line class="st0" x1="7.8" y1="13.7" x2="7.8" y2="14.6"/>
+		<line class="st0" x1="12.3" y1="13.7" x2="12.3" y2="14.6"/>
+		<line class="st0" x1="16.8" y1="13.7" x2="16.8" y2="14.6"/>
+	</g>
+	<rect x="2.2" y="8" class="st0" width="2.2" height="4"/>
+	<rect x="6.6" y="8" class="st0" width="2.2" height="4"/>
+	<rect x="11.1" y="8" class="st0" width="2.2" height="4"/>
+	<rect x="15.7" y="8" class="st0" width="2.2" height="4"/>
+</g>
+</svg>

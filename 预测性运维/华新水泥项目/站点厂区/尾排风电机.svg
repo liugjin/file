@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="49px" viewBox="0 0 52 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.196547368 0.0758105263 6.4256 0.0758105263 6.4256 2.73684211 0.196547368 2.73684211"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="站点厂区" transform="translate(-1158.000000, -886.000000)">
+            <g id="设备快速跳转" transform="translate(640.000000, 839.000000)">
+                <g id="尾排风电机" transform="translate(480.000000, 29.000000)">
+                    <g transform="translate(20.000000, 19.000000)" id="icon">
+                        <g transform="translate(19.000000, 0.000000)">
+                            <path d="M28.6957895,27.9672421 C28.6957895,29.8419789 27.1768421,31.3554526 25.3075789,31.3554526 C23.4355789,31.3554526 21.9166316,29.8419789 21.9166316,27.9672421 C21.9166316,26.0952421 23.4355789,24.5790316 25.3075789,24.5790316 C27.1768421,24.5790316 28.6957895,26.0952421 28.6957895,27.9672421 Z" id="Stroke-1" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M33.6724632,27.9672421 C33.6724632,32.5760842 29.9394105,36.3091368 25.3305684,36.3091368 C20.7272,36.3091368 16.9886737,32.5760842 16.9886737,27.9672421 C16.9886737,23.3611368 20.7272,19.6280842 25.3305684,19.6280842 C29.9394105,19.6280842 33.6724632,23.3611368 33.6724632,27.9672421 Z" id="Stroke-3" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M20.5413684,21.1440211 L20.5413684,5.45096842" id="Stroke-5" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M30.0748842,21.1065263 L30.0748842,5.44905263" id="Stroke-7" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M20.5413684,5.44987368 C20.5413684,2.81429474 22.6706316,0.685031579 25.3062105,0.685031579" id="Stroke-9" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M30.0748842,5.44987368 C30.0748842,2.81429474 27.9428842,0.685031579 25.3073053,0.685031579" id="Stroke-11" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M33.6724632,27.2537474 L47.5920421,35.4286947" id="Stroke-13" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M28.808,35.5524 L42.7658947,43.6507158" id="Stroke-15" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M47.5917684,35.4295158 C49.8633474,36.7623579 50.6214526,39.6825684 49.2886105,41.9541474" id="Stroke-17" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M42.7648,43.6507158 C45.0363789,44.9835579 47.9538526,44.2254526 49.2894316,41.9538737" id="Stroke-19" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M17.0242526,27.2162526 L3.03898947,35.4295158" id="Stroke-21" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M21.7442105,35.4990316 L7.86568421,43.6520842" id="Stroke-23" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M3.03789474,35.4295158 C0.766315789,36.7623579 0.00821052632,39.6825684 1.34105263,41.9541474" id="Stroke-25" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M7.86486316,43.6507158 C5.59328421,44.9835579 2.67581053,44.2254526 1.34296842,41.9538737" id="Stroke-27" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M41.1960421,18.3321895 C40.2408842,16.6216632 38.3798316,14.4294526 37.0250947,13.4004" id="Stroke-29" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M43.3529474,24.8190526 C43.2681053,23.7790526 43.1175789,23.0647368 42.7645263,22.4106316" id="Stroke-31" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <g id="分组" transform="translate(25.631579, 44.562905)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-34"></g>
+                                <path d="M0.196547368,2.05181053 C2.15065263,2.03812632 4.89570526,1.49896842 6.4256,0.836652632" id="Stroke-33" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                            </g>
+                            <path d="M19.0018947,45.3130737 C19.9515789,45.7482316 20.6467368,45.9671789 21.3884211,45.9808632" id="Stroke-35" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9.13448421,18.6477474 C8.03701053,20.2734316 6.91764211,22.9528 6.61385263,24.6359579" id="Stroke-37" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M13.9130105,13.8128421 C13.0235368,14.3602105 12.4570105,14.8172632 12.0328,15.4303158" id="Stroke-39" stroke="#F3F6FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
